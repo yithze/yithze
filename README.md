@@ -3,7 +3,7 @@
 ### I am a frontend developer interested in UI/UX and graphic design.
 
 #### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/#/) ![LinkedIn](https://img.shields.io/badge/-soon-black?style=flat-square&logo=Linkedin&logoColor=white)
+- (https://www.linkedin.com/in/#/) ![LinkedIn](https://img.shields.io/badge/-soon-black?style=flat-square&logo=Linkedin&logoColor=white)
 - [Instagram](https://instagram.com/yithze) ![Instagram](https://img.shields.io/badge/-@yithze-black?style=flat-square&logo=instagram&logoColor=white)
 - [Email](mailto:aldiyusronazhar@gmail.com) ![Gmail](https://img.shields.io/badge/-aldiyusronazhar@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white)
 
